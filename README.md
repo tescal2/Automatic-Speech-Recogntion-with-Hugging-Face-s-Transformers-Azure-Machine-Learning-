@@ -5,7 +5,7 @@ Together with Azure Machine Learning, you can extend the functionalities of Hugg
 
 ![automatic_speech_recognition](./imgs/automatic_speech_recognition.png)
 
-In this [example](./HuggingFaceASR-AzureML.ipynb) you will learn how to: 
+In this [example](./HuggingFaceASR-AzureML.ipynb), you will learn how to: 
 
 1. Create an azure Machine Learning Notebook and associate the underlying compute instance
 2. Install Dependencies, fetch the pre-trained moel from Hugging Face, and load a sample dataset of audio files
@@ -20,5 +20,5 @@ First you will need to log into your Azure Machine Learning Studio account and h
 Next, you will open a terminal and clone the repo in order to open and use the notebook:
 
 ![clone](./imgs/clone.png)
-
-Finally, you will execute each cell within the [example notebook](./HuggingFaceASR-AzureML.ipynb).
+ 
+Finally, you will execute each cell within the [example notebook](./HuggingFaceASR-AzureML.ipynb). Enjoy! :sunglasses:
