@@ -1,4 +1,4 @@
-# Automatic Speech Recogntion with Hugging Face's Transformers on Azure MachineLearning
+# Automatic Speech Recognition with Hugging Face's Transformers on Azure MachineLearning
 
 Transformer models are changing the world of machine learning, starting with natural language processing, and now, with audio and computer vision.  Hugging Face's mission is to democratize good machine learning and give anyone the opportunity to use these new state-of-the-art machine learning models.
 Together with Azure Machine Learning, you can extend the functionalities of Hugging Face to make it easier to use speech and vision with `transformers`. You can now use this code example to perform [automatic speech recognition](https://huggingface.co/tasks/automatic-speech-recognition) using [Facebook's Wav2Vec2](https://ai.facebook.com/blog/wav2vec-20-learning-the-structure-of-speech-from-raw-audio/) model which can also be found on the [Hugging Face Model Hub](https://huggingface.co/facebook/wav2vec2-large-960h).
